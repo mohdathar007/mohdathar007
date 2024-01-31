@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohd Athar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500" >
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  >
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
